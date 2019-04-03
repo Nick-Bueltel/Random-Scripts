@@ -1,0 +1,45 @@
+4.2.19
+I decided to a bit of a journal on here to keep a bit of a log as far as my progression in programming as a whole. Sort
+of like a blog but you have to keep coming back to my repo to read it. Let me know if this is entertaining for you
+if you happen to stumble upon it.
+
+So I am Nick Bueltel, nice to er... meet you?
+
+Anyway, a little bit about my background. lets do this in list format.
+* HS - 1 year of java classes
+* Air Force - ATC
+* some college - 1 comp sci python class
+* HS graduation(2010 - now) - general aimlessness and job hopping.
+* January this year - started studying programming again.
+
+Basically I have very little experience with programming, and after a conversation with a stranger in a barnes & noble
+I decided to pick it back up and start making things for fun, and doing things for fun lead to me discovering that I
+was actually pretty good at picking up new stuff in programming, and *gasp* that I actually enjoyed doing it. So I
+started doing some basic tutorials and things, going through some no starch press books and began working on some small
+scripts to make my IT job easier (really its an industrial production job with a side of IT with no pay raise for doing
+so) but anyway, I get to a point where I am like "I can really do this for a job? It seems too good to be true." I started
+talking to some old acquaintances and friends that I haven't talked to in years, turns out they are programmers already,
+they tell me about who to talk to and what agencies to apply to. So I apply to triplebyte, and some how I get past the
+first screener test they provide, I am super nervous and excited about it. I wait about a week heeding a warning from my
+friend that I will need to know about "data structures & algorithms" at the time, I had no idea what that even meant
+so I did some research and it turns out.... I still didn't know what that meant. So I kind of skipped it and decided
+to take the triplebyte second coding challenge anyway..... and fail horribly, and disgracefully. It got to the point I was
+just furiously typing questions into google trying to figure out what most of this stuff even meant. I did not pass (obviously)
+SO
+in comes the idea of joining a bootcamp. probably 60 hours of research later, and im off to the races doing all kinds
+of tutorial courses and classes online. Udemy, udacity, lambda school precourse, general assembly precourse, galvanize etc...
+its been about 2 weeks since I started those and boy... BOI. I cannot even comprehend how much information and new techniques
+I have learned. HTML, CSS, JavaScript. they were all totally foreign to me but now I feel like I have a good handle on them,
+I even passed the lambda coding challenge earlier today, which let me tell you. Was in fact a challenge... For me anyway.
+Arrays are probably the devil and you cannot change my mind. At least until I learn how to actually use them effectively.
+
+anyway, just wanted to do this for some reason, maybe I'll keep it up, maybe I wont. I hope that if you stumbled across this,
+you actually enjoyed a few minutes of reading it.
+
+function isBetter(language){
+    yourOpinion = true; 
+    console.log("python is better than" + language + ". yes. I feel the irony in this, my brain is packed with JS at the moment give me a break ");
+    if( yourOpinion !== true){
+        return false;
+    }
+}
