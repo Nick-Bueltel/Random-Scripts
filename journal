@@ -37,9 +37,22 @@ anyway, just wanted to do this for some reason, maybe I'll keep it up, maybe I w
 you actually enjoyed a few minutes of reading it.
 
 function isBetter(language){
-    yourOpinion = true; 
+    yourOpinion = true;
     console.log("python is better than" + language + ". yes. I feel the irony in this, my brain is packed with JS at the moment give me a break ");
     if( yourOpinion !== true){
         return false;
     }
 }
+
+4.5.19
+
+Finally the weekend, and I can get some good coding done, after my parttime job tomorrow I am free to code to my hearts content.
+I did waste quite a few hours today after work just pretty much piddling around with my macbook, trying to get it ready
+for bootcamp. I am currently cloning my hackintosh drive to a 128 gb flashdrive to give a good jumping off point for it.
+That way I dont have to waste a bunch of time getting everything reinstalled etc, I can just clone the flash drive to the SSD
+once i pick it up tomorrow. I also plan to create some sort of app that will download all of my programs/settings/configs to
+whatever machine I may be using in order to make the process of setting up a new mac easier. Once I complete bootcamp and land
+a job I will be needing to return the macbook I am using to my part-time boss. or maybe ill just buy it from him at a generous
+rate if I end up liking it a lot, though it is outdated so maybe my new workplace would require a newer one... who knows.
+anyway, probably wont get much done tonight. probably just going to hit up the arrays lesson on udacity to get my brain
+orientated on using them more. might write a few array functions just to practice a bit. 
